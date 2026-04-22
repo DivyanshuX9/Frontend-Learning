@@ -22,7 +22,6 @@
 ```
 >  Foundation complete
 
----
 
 ###  Stage 2 — JavaScript Fundamentals
 ```
@@ -32,8 +31,6 @@
 ● ──── ES6+ (arrow functions, destructuring, spread, modules)
 ```
 >  Core JS done
-
----
 
 ###  Stage 3 — React Basics
 ```
@@ -46,8 +43,6 @@
 ```
 >  Learned in: `AppProps/` & `UseRef/Propp/`
 
----
-
 ###  Stage 4 — React State & Rendering
 ```
 ● ──── useState hook
@@ -59,8 +54,6 @@
          └── rendering Todo list with keys
 ```
 >  Learned in: `Conditionalrendering/`
-
----
 
 ###  Stage 5 — React Hooks (useEffect & useRef)
 ```
@@ -94,7 +87,6 @@
 [ ] ──── TypeScript with React — type-safe components & props
 [ ] ──── Testing — Jest, React Testing Library
 [ ] ──── Next.js — SSR, SSG, file-based routing, full-stack React
-[ ] ──── Deployment — Vercel, Netlify, CI/CD basics
 ```
 
 ---
