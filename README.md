@@ -1,10 +1,10 @@
-# 🚀 My Frontend Learning Journey
+#  My Frontend Learning Journey
 
 > A personal timeline of everything I've learned — and what's still ahead.
 
 ---
 
-## ✅ My Learning Timeline
+##  My Learning Timeline
 
 ```
 [START] ──────────────────────────────────────────────────────────────► [IN PROGRESS]
@@ -14,28 +14,28 @@
 
 ---
 
-### 📌 Stage 1 — HTML & CSS Basics
+###  Stage 1 — HTML & CSS Basics
 ```
 ● ──── HTML structure, tags, forms, tables
 ● ──── CSS selectors, box model, flexbox, grid
 ● ──── Responsive design basics
 ```
-> ✅ Foundation complete
+>  Foundation complete
 
 ---
 
-### 📌 Stage 2 — JavaScript Fundamentals
+###  Stage 2 — JavaScript Fundamentals
 ```
 ● ──── Variables, data types, functions
 ● ──── DOM manipulation
 ● ──── Events, loops, arrays, objects
 ● ──── ES6+ (arrow functions, destructuring, spread, modules)
 ```
-> ✅ Core JS done
+>  Core JS done
 
 ---
 
-### 📌 Stage 3 — React Basics
+###  Stage 3 — React Basics
 ```
 ● ──── Setting up React with Vite
 ● ──── JSX syntax
@@ -44,11 +44,11 @@
          └── e.g. <Navbar color={"cyan blue"} />
 ● ──── Component composition & reuse
 ```
-> ✅ Learned in: `AppProps/` & `UseRef/Propp/`
+>  Learned in: `AppProps/` & `UseRef/Propp/`
 
 ---
 
-### 📌 Stage 4 — React State & Rendering
+###  Stage 4 — React State & Rendering
 ```
 ● ──── useState hook
          └── managing count, toggle, list state
@@ -58,11 +58,11 @@
 ● ──── List rendering with .map()
          └── rendering Todo list with keys
 ```
-> ✅ Learned in: `Conditionalrendering/`
+>  Learned in: `Conditionalrendering/`
 
 ---
 
-### 📌 Stage 5 — React Hooks (useEffect & useRef)
+###  Stage 5 — React Hooks (useEffect & useRef)
 ```
 ● ──── useEffect — side effects in components
          └── runs on every render (no dependency array)
@@ -74,11 +74,11 @@
          └── DOM manipulation via ref (btnref.current.style...)
          └── tracking render count without state
 ```
-> ✅ Learned in: `AppProps/` + `UseRef/Propp/`
+>  Learned in: `AppProps/` + `UseRef/Propp/`
 
 ---
 
-## 🔜 What's Remaining
+##  What's Remaining
 
 ```
 [ ] ──── useContext — global state without prop drilling
@@ -110,7 +110,7 @@ Frontend_learning/
 
 ---
 
-## 🧠 Key Concepts Cheatsheet
+##  Key Concepts Cheatsheet
 
 | Concept | What I Know |
 |---|---|
@@ -123,4 +123,4 @@ Frontend_learning/
 
 ---
 
-> 💡 *"Every expert was once a beginner. Keep shipping."*
+>  *"Every expert was once a beginner. Keep shipping."*
