@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            height: 50vh;
+            width: 30vw;
+            background-color: blueviolet;
+        }
+        .box{
+            width: 34px;
+            height: 45px;
+            background-color: aqua;
+            animation-name: mera;
+            animation-duration:  3s ;
+            animation-timing-function:ease-in-out;
+            animation-delay:   1s ;
+            animation-iteration-count: infinite;
+            animation-direction: reverse;
+        }
+        @keyframes mera{
+            from{
+
+            }
+            to{
+                transform: translateX(300px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+
+        </div>
+    </div>
+</body>
+</html>

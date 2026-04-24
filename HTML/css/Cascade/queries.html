@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            border: 2px solid black;
+            margin: 10px;
+            padding: 100px;
+            width: 80vw;
+            height: 20vh;
+            background-color: aqua;
+            flex-direction: column;
+        }
+        .box{
+            display: flex;
+        }
+        *{
+            background-color: blue;
+        }
+       @media only screen and (orientation:portrait){
+      *{
+        background-color: red;
+       }
+    .box{
+        display: flex;
+        flex-direction: column;
+    }
+}
+    </style>
+</head>
+<body>
+    <div class="body">hey who is this</div>
+    <div class="box">
+
+        <div class="container">hi</div>
+        <div class="container">hi container2</div>
+        <div class="container">hi there</div>
+    </div>
+    </body>
+</html>

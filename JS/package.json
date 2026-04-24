@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "20.17.0",
+  "main": "ConditionalStatement.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^6.0.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "description": ""
+}

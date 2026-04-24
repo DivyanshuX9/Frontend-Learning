@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        :root {
+            --color: blue;
+            --seccolor: aqua;
+            --defop:0.2;
+            --defpad:32px;
+        }
+        .nav {
+            background-color: var(--seccolor);
+        }
+        ul{
+            display: flex;
+            opacity: var(--defop);
+        }
+        ul li{
+            list-style: none;
+            padding:var(--defpad);
+        }
+        .container{
+            background-color: var(--color);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="nav">
+        <ul>
+            <li>Home</li>
+            <li>about</li>
+            <li>coustum</li>
+        </ul>
+    </div>
+    <div class="container">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima eum expedita ratione pariatur praesentium totam
+        fuga a fugit ipsum sint vel, doloremque officia assumenda nobis similique ipsa laudantium error nihil nam hic
+        rem. Minus, atque natus nisi harum dolore nobis laudantium distinctio aut optio quia.
+    </div>
+</body>
+
+</html>

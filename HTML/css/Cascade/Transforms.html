@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            background-color: beige;
+            border: 2px solid black;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            /* transform: rotate(0.5turn); */
+            /* transform: scale3D(1.6);*/
+            /* transform: skewX(5deg); */
+            transform:translateX(100%) ;
+            transform-origin: -32% -0%;
+            transform: rotate(25deg);
+        }
+        .container{
+            border: 3px solid purple;
+            width:100vw;
+            height: 80vh;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            box
+        </div>
+    </div>
+</body>
+</html>
