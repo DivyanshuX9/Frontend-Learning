@@ -30,7 +30,7 @@ This is a living document of my frontend learning path. Every stage below is som
 
 ---
 
-## Stage 1 — HTML and CSS
+## Stage 1 : HTML and CSS
 
 **Folder:** `HTML/`
 
@@ -58,7 +58,7 @@ Projects
 
 ---
 
-## Stage 2 — JavaScript
+## Stage 2 : JavaScript
 
 **Folder:** `JS/`
 
@@ -86,7 +86,7 @@ Advanced
 
 ---
 
-## Stage 3 — React Basics
+## Stage 3 : React Basics
 
 **Folder:** `AppProps/`
 
@@ -115,7 +115,7 @@ Props
 
 ---
 
-## Stage 4 — State and Rendering
+## Stage 4 : State and Rendering
 
 **Folder:** `Conditionalrendering/`
 
@@ -144,7 +144,7 @@ List Rendering
 
 ---
 
-## Stage 5 — React Hooks
+## Stage 5 : React Hooks
 
 **Folder:** `UseRef/Propp/`
 
